@@ -2,7 +2,8 @@
 Dual 120mm panel mount HEPA filter enclosure. Used with low cost generic molded HEPA filters (and carbon pre-filter pads). 
 
 Example of compatible filters:
-
+[Compatible_Filters](https://www.amazon.com/Wolf-Filter-Allergen-Compatible-HAPF300AH-U4R/dp/B07GVC9MQW/ref=sr_1_1?crid=3582JIRGDNOKB&dchild=1&keywords=wolfish+2+%2B+4+pack+allergen+remover+true+hepa+filter&qid=1601828378&sprefix=wolfish+2+%2B+%2Caps%2C217&sr=8-1
+)
 https://www.amazon.com/Wolf-Filter-Allergen-Compatible-HAPF300AH-U4R/dp/B07GVC9MQW/ref=sr_1_1?crid=3582JIRGDNOKB&dchild=1&keywords=wolfish+2+%2B+4+pack+allergen+remover+true+hepa+filter&qid=1601828378&sprefix=wolfish+2+%2B+%2Caps%2C217&sr=8-1
 
 https://www.amazon.com/Colorfullfe-Performance-Replacement-HAPF300AP-U4-Filters/dp/B07W8SXK4B/ref=sr_1_7?crid=3582JIRGDNOKB&dchild=1&keywords=wolfish+2+%2B+4+pack+allergen+remover+true+hepa+filter&qid=1601828408&sprefix=wolfish+2+%2B+%2Caps%2C217&sr=8-7
